@@ -88,7 +88,7 @@ bash collect_metrics_vm.sh
 ---
 
 ## 📅 Authors
-- Rishabh Johri, MTech AI, IIT Jodhpur
+- Ayantika Dhar
 
 ---
 
