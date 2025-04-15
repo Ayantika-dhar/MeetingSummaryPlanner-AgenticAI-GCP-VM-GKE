@@ -1,0 +1,4 @@
+PM: The new design has been approved.
+Design Lead: We’ll start prototyping in Figma.
+Dev Lead: Share final assets by Monday.
+QA: Test cases will be ready mid-week.

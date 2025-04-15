@@ -1,0 +1,4 @@
+Client: We need weekly status updates via email.
+PM: I’ll send a draft format for approval.
+Dev: Can we automate some parts using Python scripts?
+Client: Yes, as long as it includes key metrics.

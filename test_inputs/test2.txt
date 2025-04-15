@@ -1,0 +1,4 @@
+Manager: Our Q2 goal is to increase retention by 10%.
+Dev1: We should improve onboarding flow.
+Dev2: Adding in-app walkthroughs might help.
+DevOps: Agreed. Minimal changes required in deployment.

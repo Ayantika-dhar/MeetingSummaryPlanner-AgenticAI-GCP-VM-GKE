@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+outputs/
+test_inputs/

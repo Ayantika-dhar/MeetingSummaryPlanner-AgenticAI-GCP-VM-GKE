@@ -1,0 +1,4 @@
+Alice: Let's start with Q2 planning. We need to finalize the product roadmap by next Monday.
+Bob: I’ll gather feedback from the UX team and update the wireframes by Friday.
+Charlie: I’ll connect with marketing and draft a campaign outline for the new launch.
+Alice: Great. Let’s reconvene next Tuesday to review the progress.

@@ -1,0 +1,4 @@
+Team Lead: Next deployment is on Friday.
+Dev A: All features are in staging now.
+QA Lead: Regression testing will finish by tomorrow.
+PM: Great. Let’s send release notes by Thursday.

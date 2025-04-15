@@ -1,0 +1,4 @@
+Alice: Our AWS usage increased last month.
+Bob: Mostly due to EC2 spot instance scale-outs.
+Finance: We should analyze unused resources.
+DevOps: I’ll prepare a report by Wednesday.

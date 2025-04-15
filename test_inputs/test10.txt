@@ -1,0 +1,4 @@
+CTO: Please prioritize system stability.
+Dev: We’ll optimize the background job queue.
+Infra: Load balancer configuration will be updated.
+QA: Add soak tests to this sprint.

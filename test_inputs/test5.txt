@@ -1,0 +1,4 @@
+PO: The customer wants Slack notifications for errors.
+Dev: That requires webhook integration.
+Ops: We’ll need a token and endpoint configuration.
+Scrum Master: Add a story and estimate it in Jira.

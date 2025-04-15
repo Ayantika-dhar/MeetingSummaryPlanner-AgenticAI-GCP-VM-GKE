@@ -1,0 +1,4 @@
+Alice: Let's begin with the sprint review.
+Bob: We completed all the planned backend tasks.
+Clara: Frontend has 2 pending bugs to fix.
+David: I'll coordinate with QA to resolve them.
